@@ -40,11 +40,13 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 
 <p>
   <span style="background-color: #1e40af; color: white; padding: 3px 8px; border-radius: 4px; font-size: 14px;">TPAMI 2024</span>
-  <strong>Debin Liu</strong>, Xiang Bai, Ruonan Zhao, Xianjun Deng and Laurence T. Yang.
+  <span style="color: #1e40af;"><strong>Debin Liu</strong></span>, Xiang Bai, Ruonan Zhao, Xianjun Deng and Laurence T. Yang.
   <strong>Dual-grained Lightweight Strategy.</strong>
   <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>,
   2024, 46(12): 10228–10245.
-  <span style="color: #c0392b;">**(IF: 20.4, 中科院一区 Top, CCF A)**</span>
+  <span style="display: inline-block; background-color: #c0392b; color: white; padding: 3px 8px; border-radius: 4px; font-size: 14px; margin: 2px; font-weight: bold;">IF: 20.4</span>
+  <span style="display: inline-block; background-color: #c0392b; color: white; padding: 3px 8px; border-radius: 4px; font-size: 14px; margin: 2px; font-weight: bold;">中科院一区 Top</span>
+  <span style="display: inline-block; background-color: #c0392b; color: white; padding: 3px 8px; border-radius: 4px; font-size: 14px; margin: 2px; font-weight: bold;">CCF A</span>
 </p>
 
 <p>
