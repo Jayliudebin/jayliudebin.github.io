@@ -23,6 +23,14 @@ His research interests include multimodal learning, deep neural network optimiza
 
 He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He also reviews for leading conferences and journals, including ACM MM, NeurIPS, AAAI, ICLR, CVPR, ICML, IEEE TIFS, TITS, TDSC, TMC, TNNLS, TII, TVT, TSUSC, and the Chinese Journal of Computers (计算机学报).
 
+<p>
+  <i class="fas fa-envelope" aria-hidden="true"
+     style="color: #1e40af; margin-right: 6px;"></i>
+  <a href="mailto:debinliuhust@gmail.com"
+     style="color: #1e40af;">
+    debinliuhust@gmail.com
+  </a>
+</p>
 
 
 # 🔥 News
@@ -421,23 +429,23 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 
 # 💼 Project
 
-- **National Natural Science Foundation of China (NSFC) Young Scientists Fund, Category C (国家自然科学基金青年项目)**, RMB 200,000, Principal Investigator.
+- <span style="color: #c0392b;"><strong>National Natural Science Foundation of China (NSFC) Young Scientists Fund, Category C (国家自然科学基金青年项目)</strong></span>, RMB 200,000, Principal Investigator.
 
-- **China Postdoctoral Science Foundation General Program (中国博士后科学基金面上项目)**, RMB 80,000 Principal Investigator.
+- <span style="color: #c0392b;"><strong>China Postdoctoral Science Foundation General Program (中国博士后科学基金面上项目)</strong></span>, RMB 80,000 Principal Investigator.
 
-- **Open Research Project funded by Sugon Information Industry (Beijing) Co., Ltd. (曙光信息产业（北京）有限公司开放课题项目)**, RMB 200,000, Principal Investigator.
+- <span style="color: #c0392b;"><strong>Open Research Project funded by Sugon Information Industry (Beijing) Co., Ltd. (曙光信息产业（北京）有限公司开放课题项目)</strong></span>, RMB 200,000, Principal Investigator.
 
-- **Industry-funded Research Project with China United Network Communications Co., Ltd., Henan Branch (中国联合网络通信有限公司河南省分公司横向项目)**, RMB 800,000, Subproject Lead.
+- <span style="color: #c0392b;"><strong>Industry-funded Research Project with China United Network Communications Co., Ltd., Henan Branch (中国联合网络通信有限公司河南省分公司横向项目)</strong></span>, RMB 800,000, Subproject Lead.
 
-- **Zhongyuan Young Top Talent Program under Henan Province’s “Zhongyuan Talent Program” (河南省“中原英才计划”—中原青年拔尖人才项目)**, RMB 500,000, Principal Investigator.
+- <span style="color: #c0392b;"><strong>Zhongyuan Young Top Talent Program under Henan Province’s “Zhongyuan Talent Program” (河南省“中原英才计划”—中原青年拔尖人才项目)</strong></span>, RMB 500,000, Principal Investigator.
 
-- **National Natural Science Foundation of China Key Program—Modeling Theory and System Design for Safety-Critical Automotive Cyber-Physical Systems (国家自然科学基金重点项目-安全关键汽车信息物理系统建模理论与系统设计)** (January 2020–December 2024), Key Subproject Member.
+- <span style="color: #c0392b;"><strong>National Natural Science Foundation of China Key Program—Modeling Theory and System Design for Safety-Critical Automotive Cyber-Physical Systems (国家自然科学基金重点项目-安全关键汽车信息物理系统建模理论与系统设计)</strong></span> (January 2020–December 2024), Key Subproject Member.
 
-- **Collaborative Project between the HUST Joint Technology Center for Artificial Intelligence and Intelligent Transportation and Hubei Chutian Intelligent Transportation Co., Ltd.—Intelligent Transportation Operations Monitoring, Command, and Dispatch System (华中科技大学人工智能与智能交通联合技术中心与湖北楚天智能交通有限公司合作项目-智慧交通运营监测指挥调度系统)** (April 2021–December 2024), Key Project Member.
+- <span style="color: #c0392b;"><strong>Collaborative Project between the HUST Joint Technology Center for Artificial Intelligence and Intelligent Transportation and Hubei Chutian Intelligent Transportation Co., Ltd.—Intelligent Transportation Operations Monitoring, Command, and Dispatch System (华中科技大学人工智能与智能交通联合技术中心与湖北楚天智能交通有限公司合作项目-智慧交通运营监测指挥调度系统)</strong></span> (April 2021–December 2024), Key Project Member.
 
-- **Science and Technology Innovation 2030—“New Generation Artificial Intelligence” Major Project—Research on Key Technologies for AI Foundation Models (科技创新2030“新一代人工智能（2030）”重大项目-人工智能基础模型关键技术研究)** (March 2023–March 2024), Key Project Member.
+- <span style="color: #c0392b;"><strong>Science and Technology Innovation 2030—“New Generation Artificial Intelligence” Major Project—Research on Key Technologies for AI Foundation Models (科技创新2030“新一代人工智能（2030）”重大项目-人工智能基础模型关键技术研究)</strong></span> (March 2023–March 2024), Key Project Member.
 
-- **National Key Research and Development Program—Fine-Grained Layer-3 Soft Slicing Based on Time-Slot Mapping and Deterministic Forwarding Based on New IP (国家重点研发项目-基于时隙映射的细粒度三层软切片及基于New IP的确定性转发技术)** (November 2020–October 2023), Key Subproject Member.
+- <span style="color: #c0392b;"><strong>National Key Research and Development Program—Fine-Grained Layer-3 Soft Slicing Based on Time-Slot Mapping and Deterministic Forwarding Based on New IP (国家重点研发项目-基于时隙映射的细粒度三层软切片及基于New IP的确定性转发技术)</strong></span> (November 2020–October 2023), Key Subproject Member.
 
 # 🎖 Honors and Awards
 
