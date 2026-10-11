@@ -17,20 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color: #2563eb;">**Debin Liu**</span> is an Associate Researcher and Master’s Supervisor at the School of Computer Science and Artificial Intelligence, Zhengzhou University. Born in 1997, he received his Ph.D. in Computer Architecture from Huazhong University of Science and Technology in June 2024 under the supervision of Prof. <span style="color: #2563eb;">Laurence T. Yang (**杨天若, Academic Vice President of Zhengzhou University, Fellow of the Canadian Academy of Engineering, the Engineering Institute of Canada, the European Academy of Sciences and IEEE Fellow**)</span> . He joined Zhengzhou University in August 2024. He has been recognized as a **Zhongyuan Young Top Talent (中原青年拔尖人才) and a Henan Provincial High-Level Talent（河南省高层次人才）**. He serves on the CCF Technical Committee on Cooperative Computing and the Technical Committee on Industrial Internet of Things Technologies and Applications.
+<span style="color: #1e40af;">**Debin Liu**</span> is an Associate Researcher and Master’s Supervisor at the School of Computer Science and Artificial Intelligence, Zhengzhou University. Born in 1997, he received his Ph.D. in Computer Architecture from Huazhong University of Science and Technology in June 2024 under the supervision of Prof. <span style="color: #1e40af;">Laurence T. Yang (**杨天若, Academic Vice President of Zhengzhou University, Fellow of the Canadian Academy of Engineering, the Engineering Institute of Canada, the European Academy of Sciences and IEEE Fellow**)</span> . He joined Zhengzhou University in August 2024. He has been recognized as a <span style="color: #1e40af;">**Zhongyuan Young Top Talent (中原青年拔尖人才)**</span> and a <span style="color: #1e40af;">**Henan Provincial High-Level Talent（河南省高层次人才**</span>. He serves on the CCF Technical Committee on Cooperative Computing and the Technical Committee on Industrial Internet of Things Technologies and Applications.
 
-His research interests include multimodal learning, deep neural network optimization, neural network compression and acceleration, efficient inference for large models, and federated learning. He has published over 40 papers in leading journals and conferences, including IEEE TPAMI, TIP, TPDS, TC, TMC, TIFS, TCAD, TITS, TII, ACM TOMM, IEEE Communications Surveys & Tutorials, CVPR, NeurIPS, and ICME. His work received a Best Paper Award nomination at ICME.
+His research interests include multimodal learning, deep neural network optimization, neural network compression and acceleration, efficient inference for large models, and federated learning. He has published over 40 papers in leading journals and conferences, including <span style="color: #c0392b;">*IEEE TPAMI, TIP, TPDS, TC, TMC, TIFS, TCAD, TITS, TII, ACM TOMM, IEEE Communications Surveys & Tutorials, CVPR, NeurIPS, and ICME*</span>. His work received a Best Paper Award nomination at ICME.
 
-He serves as a Program Committee member for AAAI 2026 and ACM MM 2026. He also reviews for leading conferences and journals, including ACM MM, NeurIPS, AAAI, ICLR, CVPR, ICML, IEEE TIFS, TITS, TDSC, TMC, TNNLS, TII, TVT, TSUSC, and the Chinese Journal of Computers.
+He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He also reviews for leading conferences and journals, including ACM MM, NeurIPS, AAAI, ICLR, CVPR, ICML, IEEE TIFS, TITS, TDSC, TMC, TNNLS, TII, TVT, TSUSC, and the Chinese Journal of Computers (计算机学报).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TPDS 2026.
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TPDS 2026.
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP 2026.
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2026.
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2026.
+- *2026.10*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2026.
 
 # 📝 Publications 
 
