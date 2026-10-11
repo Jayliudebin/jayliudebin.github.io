@@ -27,8 +27,9 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TPDS 2026.
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2026.01*: &nbsp;🎉🎉 Liu Debin Wins the 2026 UK National Edge AI Hub Rising Star Award (3 recipients worldwide)
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
+- *2026.03*: &nbsp;🎉🎉 Liu Debin Named a Zhongyuan Outstanding Young Talent(中原青年拔尖人才)
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP 2026.
 - *2026.09*: &nbsp;🎉🎉 Liu Debin Wins the 2026 ACM China Rising Star Award (Zhengzhou Branch: 3 members in total, with one recommended for the national selection).
 - *2026.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2026.
@@ -36,6 +37,15 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 
 
 # 📝 Publications 
+
+<p>
+  <span style="background-color: #1e40af; color: white; padding: 3px 8px; border-radius: 4px; font-size: 14px;">TPAMI 2024</span>
+  <strong>Debin Liu</strong>, Xiang Bai, Ruonan Zhao, Xianjun Deng, and Laurence T. Yang.
+  <strong>Dual-grained Lightweight Strategy.</strong>
+  <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>,
+  2024, 46(12): 10228–10245.
+  <span style="color: #c0392b;">(IF: 20.4, 中科院一区 Top, CCF A)</span>
+</p>
 
 <div class="badge">TPAMI 2024</div>	Debin Liu, Xiang Bai, Ruonan Zhao, Xianjun Deng, and Laurence T. Yang. Dual-grained Lightweight Strategy. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024, 46(12): 10228-10245. (IF: 20.4, 中科院一区Top, CCF A)
 [2]	Debin Liu, Xiang Bai, Ruonan Zhao, Xianjun Deng, Shibo He and Laurence T. Yang. A Simple but Efficient Method to Achieve High Performance with Extreme Sparsity. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026. (Accepted, IF: 20.4, 中科院一区Top, CCF A)
