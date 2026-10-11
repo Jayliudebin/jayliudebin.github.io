@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color: #1e40af;">**Debin Liu**</span> is an Associate Researcher and Master’s Supervisor at the School of Computer Science and Artificial Intelligence, Zhengzhou University. Born in 1997, he received his Ph.D. in Computer Architecture from Huazhong University of Science and Technology in June 2024 under the supervision of Prof. <span style="color: #1e40af;">Laurence T. Yang (**杨天若, Academic Vice President of Zhengzhou University, Fellow of the Canadian Academy of Engineering, the Engineering Institute of Canada, the European Academy of Sciences and IEEE Fellow**)</span> . He joined Zhengzhou University in August 2024. He has been recognized as a <span style="color: #1e40af;">**Zhongyuan Young Top Talent (中原青年拔尖人才)**</span> and a <span style="color: #1e40af;">**Henan Provincial High-Level Talent（河南省高层次人才**</span>. He serves on the CCF Technical Committee on Cooperative Computing and the Technical Committee on Industrial Internet of Things Technologies and Applications.
+<span style="color: #1e40af;">**Debin Liu**</span> is an Associate Researcher and Master’s Supervisor at the School of Computer Science and Artificial Intelligence, Zhengzhou University. Born in 1997, he received his Ph.D. in Computer Architecture from Huazhong University of Science and Technology in June 2024 under the supervision of Prof. <span style="color: #1e40af;">Laurence T. Yang (**杨天若, Academic Vice President of Zhengzhou University, Fellow of the Canadian Academy of Engineering, the Engineering Institute of Canada, the European Academy of Sciences and IEEE Fellow**)</span> . He joined Zhengzhou University in August 2024. He has been recognized as a <span style="color: #1e40af;">**Zhongyuan Young Outstanding Young Talent (中原青年拔尖人才)**</span> and a <span style="color: #1e40af;">**Henan Provincial High-Level Talent（河南省高层次人才**</span>. He serves on the CCF Technical Committee on Cooperative Computing and the Technical Committee on Industrial Internet of Things Technologies and Applications.
 
 His research interests include multimodal learning, deep neural network optimization, neural network compression and acceleration, efficient inference for large models, and federated learning. He has published over 40 papers in leading journals and conferences, including <span style="color: #c0392b;">*IEEE TPAMI, TIP, TPDS, TC, TMC, TIFS, TCAD, TITS, TII, ACM TOMM, IEEE Communications Surveys & Tutorials, CVPR, NeurIPS, and ICME*</span>. His work received a Best Paper Award nomination at ICME.
 
@@ -40,11 +40,47 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 
 <p>
   <span style="background-color: #1e40af; color: white; padding: 3px 8px; border-radius: 4px; font-size: 14px;">TPAMI 2024</span>
-  <strong>Debin Liu</strong>, Xiang Bai, Ruonan Zhao, Xianjun Deng, and Laurence T. Yang.
+  <strong>Debin Liu</strong>, Xiang Bai, Ruonan Zhao, Xianjun Deng and Laurence T. Yang.
   <strong>Dual-grained Lightweight Strategy.</strong>
   <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>,
   2024, 46(12): 10228–10245.
-  <span style="color: #c0392b;">(IF: 20.4, 中科院一区 Top, CCF A)</span>
+  <span style="color: #c0392b;">**(IF: 20.4, 中科院一区 Top, CCF A)**</span>
+</p>
+
+<p>
+  <span style="background-color: #1e40af; color: white; padding: 3px 8px; border-radius: 4px; font-size: 14px;">TPAMI 2026</span>
+  <strong>Debin Liu</strong>, Xiang Bai, Ruonan Zhao, Xianjun Deng, Shibo He and Laurence T. Yang.
+  <strong>A Simple but Efficient Method to Achieve High Performance with Extreme Sparsity.</strong>
+  <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>,
+  2026.
+  <span style="color: #c0392b;">**(Accepted, IF: 20.4, 中科院一区 Top, CCF A)**</span>
+</p>
+
+<p>
+  <span style="background-color: #1e40af; color: white; padding: 3px 8px; border-radius: 4px; font-size: 14px;">TPAMI 2026</span>
+  BoCheng Ren, Yuanyuan Yi, Jun Feng, Qingchen Zhang and <strong>Debin Liu*<strong>.
+  <strong>Prototype Matters: Domain-Wise Prototype Induction for Zero-Shot Recognition.</strong>
+  <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>,
+  doi: 10.1109/TPAMI.2026.3742105, 2026.
+  <span style="color: #c0392b;">**(IF: 20.4, 中科院一区 Top, CCF A)**</span>
+</p>
+
+<p>
+  <span style="background-color: #1e40af; color: white; padding: 3px 8px; border-radius: 4px; font-size: 14px;">TPDS 2026</span>
+  Shijie Lv, <strong>Debin Liu*<strong>, Laurence T. Yang, Xiaosong Peng, Ruonan Zhao, Zecan Yang and Jun Feng.
+  <strong>Based on Tensor Core Sparse Kernels Accelerating Deep Neural Networks.</strong>
+  <em>IEEE Transactions on Parallel and Distributed Systems (TPDS)</em>,
+  2026, 37(2): 353-364.
+  <span style="color: #c0392b;">**(IF: 5.9, 中科院二区, CCF A)**</span>
+</p>
+
+<p>
+  <span style="background-color: #1e40af; color: white; padding: 3px 8px; border-radius: 4px; font-size: 14px;">CVPR 2026</span>
+  Ruonan Zhao, Zheng Wang, <strong>Debin Liu*<strong>, Shijie Lv and Laurence T. Yang.
+  <strong>FedARA: Resource-adaptive Low-rank Personalized Federated Learning via Anchor-driven Representation Alignment on Heterogeneous Edge Devices.</strong>
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>,
+  2026.
+  <span style="color: #c0392b;">**(CCF A)**</span>
 </p>
 
 <div class="badge">TPAMI 2024</div>	Debin Liu, Xiang Bai, Ruonan Zhao, Xianjun Deng, and Laurence T. Yang. Dual-grained Lightweight Strategy. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024, 46(12): 10228-10245. (IF: 20.4, 中科院一区Top, CCF A)
