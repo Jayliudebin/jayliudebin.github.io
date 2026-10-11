@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color: #1e40af;">**Debin Liu**</span> is an Associate Researcher and Master’s Supervisor at the School of Computer Science and Artificial Intelligence, Zhengzhou University. Born in 1997, he received his Ph.D. in Computer Architecture from Huazhong University of Science and Technology in June 2024 under the supervision of Prof. <span style="color: #1e40af;">Laurence T. Yang (**杨天若, Academic Vice President of Zhengzhou University, Fellow of the Canadian Academy of Engineering, the Engineering Institute of Canada, the European Academy of Sciences and IEEE Fellow**)</span> . He joined Zhengzhou University in August 2024. He has been recognized as a <span style="color: #1e40af;">**Zhongyuan Young Outstanding Young Talent (中原青年拔尖人才)**</span> and a <span style="color: #1e40af;">**Henan Provincial High-Level Talent（河南省高层次人才**</span>. He serves on the CCF Technical Committee on Cooperative Computing and the Technical Committee on Industrial Internet of Things Technologies and Applications.
+<span style="color: #1e40af;">**Debin Liu**</span> is an Associate Researcher and Master’s Supervisor at the School of Computer Science and Artificial Intelligence, Zhengzhou University. Born in 1997, he received his Ph.D. in Computer Architecture from Huazhong University of Science and Technology in June 2024 under the supervision of Prof. <span style="color: #1e40af;">Laurence T. Yang (**杨天若, Academic Vice President of Zhengzhou University, Fellow of the Canadian Academy of Engineering, the Engineering Institute of Canada, the European Academy of Sciences and IEEE Fellow**)</span> . He joined Zhengzhou University in August 2024. He has been recognized as a <span style="color: #1e40af;">**Zhongyuan Young Outstanding Young Talent (中原青年拔尖人才)**</span> and a <span style="color: #1e40af;">**Henan Provincial High-Level Talent (河南省高层次人才)**</span>. He serves on the CCF Technical Committee on Cooperative Computing and the Technical Committee on Industrial Internet of Things Technologies and Applications.
 
 His research interests include multimodal learning, deep neural network optimization, neural network compression and acceleration, efficient inference for large models, and federated learning. He has published over 40 papers in leading journals and conferences, including <span style="color: #c0392b;">*IEEE TPAMI, TIP, TPDS, TC, TMC, TIFS, TCAD, TITS, TII, ACM TOMM, IEEE Communications Surveys & Tutorials, CVPR, NeurIPS, and ICME*</span>. His work received a Best Paper Award nomination at ICME.
 
@@ -429,23 +429,23 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 
 # 💼 Project
 
-- <span style="color: #c0392b;"><strong>National Natural Science Foundation of China (NSFC) Young Scientists Fund, Category C (国家自然科学基金青年项目)</strong></span>, RMB 200,000, Principal Investigator.
+- <span style="color: #1e40af;"><strong>National Natural Science Foundation of China (NSFC) Young Scientists Fund, Category C (国家自然科学基金青年项目)</strong></span>, RMB 200,000, Principal Investigator.
 
-- <span style="color: #c0392b;"><strong>China Postdoctoral Science Foundation General Program (中国博士后科学基金面上项目)</strong></span>, RMB 80,000 Principal Investigator.
+- <span style="color: #1e40af;"><strong>China Postdoctoral Science Foundation General Program (中国博士后科学基金面上项目)</strong></span>, RMB 80,000 Principal Investigator.
 
-- <span style="color: #c0392b;"><strong>Open Research Project funded by Sugon Information Industry (Beijing) Co., Ltd. (曙光信息产业（北京）有限公司开放课题项目)</strong></span>, RMB 200,000, Principal Investigator.
+- <span style="color: #1e40af;"><strong>Open Research Project funded by Sugon Information Industry (Beijing) Co., Ltd. (曙光信息产业（北京）有限公司开放课题项目)</strong></span>, RMB 200,000, Principal Investigator.
 
-- <span style="color: #c0392b;"><strong>Industry-funded Research Project with China United Network Communications Co., Ltd., Henan Branch (中国联合网络通信有限公司河南省分公司横向项目)</strong></span>, RMB 800,000, Subproject Lead.
+- <span style="color: #1e40af;"><strong>Industry-funded Research Project with China United Network Communications Co., Ltd., Henan Branch (中国联合网络通信有限公司河南省分公司横向项目)</strong></span>, RMB 800,000, Subproject Lead.
 
-- <span style="color: #c0392b;"><strong>Zhongyuan Young Top Talent Program under Henan Province’s “Zhongyuan Talent Program” (河南省“中原英才计划”—中原青年拔尖人才项目)</strong></span>, RMB 500,000, Principal Investigator.
+- <span style="color: #1e40af;"><strong>Zhongyuan Young Top Talent Program under Henan Province’s “Zhongyuan Talent Program” (河南省“中原英才计划”—中原青年拔尖人才项目)</strong></span>, RMB 500,000, Principal Investigator.
 
-- <span style="color: #c0392b;"><strong>National Natural Science Foundation of China Key Program—Modeling Theory and System Design for Safety-Critical Automotive Cyber-Physical Systems (国家自然科学基金重点项目-安全关键汽车信息物理系统建模理论与系统设计)</strong></span> (January 2020–December 2024), Key Subproject Member.
+- <span style="color: #1e40af;"><strong>National Natural Science Foundation of China Key Program—Modeling Theory and System Design for Safety-Critical Automotive Cyber-Physical Systems (国家自然科学基金重点项目-安全关键汽车信息物理系统建模理论与系统设计)</strong></span> (January 2020–December 2024), Key Subproject Member.
 
-- <span style="color: #c0392b;"><strong>Collaborative Project between the HUST Joint Technology Center for Artificial Intelligence and Intelligent Transportation and Hubei Chutian Intelligent Transportation Co., Ltd.—Intelligent Transportation Operations Monitoring, Command, and Dispatch System (华中科技大学人工智能与智能交通联合技术中心与湖北楚天智能交通有限公司合作项目-智慧交通运营监测指挥调度系统)</strong></span> (April 2021–December 2024), Key Project Member.
+- <span style="color: #1e40af;"><strong>Collaborative Project between the HUST Joint Technology Center for Artificial Intelligence and Intelligent Transportation and Hubei Chutian Intelligent Transportation Co., Ltd.—Intelligent Transportation Operations Monitoring, Command, and Dispatch System (华中科技大学人工智能与智能交通联合技术中心与湖北楚天智能交通有限公司合作项目-智慧交通运营监测指挥调度系统)</strong></span> (April 2021–December 2024), Key Project Member.
 
-- <span style="color: #c0392b;"><strong>Science and Technology Innovation 2030—“New Generation Artificial Intelligence” Major Project—Research on Key Technologies for AI Foundation Models (科技创新2030“新一代人工智能（2030）”重大项目-人工智能基础模型关键技术研究)</strong></span> (March 2023–March 2024), Key Project Member.
+- <span style="color: #1e40af;"><strong>Science and Technology Innovation 2030—“New Generation Artificial Intelligence” Major Project—Research on Key Technologies for AI Foundation Models (科技创新2030“新一代人工智能（2030）”重大项目-人工智能基础模型关键技术研究)</strong></span> (March 2023–March 2024), Key Project Member.
 
-- <span style="color: #c0392b;"><strong>National Key Research and Development Program—Fine-Grained Layer-3 Soft Slicing Based on Time-Slot Mapping and Deterministic Forwarding Based on New IP (国家重点研发项目-基于时隙映射的细粒度三层软切片及基于New IP的确定性转发技术)</strong></span> (November 2020–October 2023), Key Subproject Member.
+- <span style="color: #1e40af;"><strong>National Key Research and Development Program—Fine-Grained Layer-3 Soft Slicing Based on Time-Slot Mapping and Deterministic Forwarding Based on New IP (国家重点研发项目-基于时隙映射的细粒度三层软切片及基于New IP的确定性转发技术)</strong></span> (November 2020–October 2023), Key Subproject Member.
 
 # 🎖 Honors and Awards
 
