@@ -27,7 +27,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TPDS 2026.
-- *2026.01*: &nbsp;🎉🎉 Liu Debin Wins the 2026 UK National Edge AI Hub Rising Star Award (3 recipients worldwide)
+- *2026.01*: &nbsp;🎉🎉 Liu Debin Wins the 2026 UK National Edge AI Hub Future Star Award (3 recipients worldwide)
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2026.03*: &nbsp;🎉🎉 Liu Debin Named a Zhongyuan Outstanding Young Talent(中原青年拔尖人才)
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP 2026.
@@ -419,18 +419,55 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 
 </div>
 
+# 💼 Project
+
+- **National Natural Science Foundation of China (NSFC) Young Scientists Fund, Category C (国家自然科学基金青年项目)**, RMB 200,000, Principal Investigator.
+
+- **China Postdoctoral Science Foundation General Program (中国博士后科学基金面上项目)**, RMB 80,000 Principal Investigator.
+
+- **Open Research Project funded by Sugon Information Industry (Beijing) Co., Ltd. (曙光信息产业（北京）有限公司开放课题项目)**, RMB 200,000, Principal Investigator.
+
+- **Industry-funded Research Project with China United Network Communications Co., Ltd., Henan Branch (中国联合网络通信有限公司河南省分公司横向项目)**, RMB 800,000, Subproject Lead.
+
+- **Zhongyuan Young Top Talent Program under Henan Province’s “Zhongyuan Talent Program” (河南省“中原英才计划”—中原青年拔尖人才项目)**, RMB 500,000, Principal Investigator.
+
+- **National Natural Science Foundation of China Key Program—Modeling Theory and System Design for Safety-Critical Automotive Cyber-Physical Systems (国家自然科学基金重点项目-安全关键汽车信息物理系统建模理论与系统设计)** (January 2020–December 2024), Key Subproject Member.
+
+- **Collaborative Project between the HUST Joint Technology Center for Artificial Intelligence and Intelligent Transportation and Hubei Chutian Intelligent Transportation Co., Ltd.—Intelligent Transportation Operations Monitoring, Command, and Dispatch System (华中科技大学人工智能与智能交通联合技术中心与湖北楚天智能交通有限公司合作项目-智慧交通运营监测指挥调度系统)** (April 2021–December 2024), Key Project Member.
+
+- **Science and Technology Innovation 2030—“New Generation Artificial Intelligence” Major Project—Research on Key Technologies for AI Foundation Models (科技创新2030“新一代人工智能（2030）”重大项目-人工智能基础模型关键技术研究)** (March 2023–March 2024), Key Project Member.
+
+- **National Key Research and Development Program—Fine-Grained Layer-3 Soft Slicing Based on Time-Slot Mapping and Deterministic Forwarding Based on New IP (国家重点研发项目-基于时隙映射的细粒度三层软切片及基于New IP的确定性转发技术)** (November 2020–October 2023), Key Subproject Member.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2026* ACM China Rising Star Award <span style="color: #c0392b;"><strong>(Zhengzhou Branch: 3 members in total, with one recommended for the national selection)</strong></span>.
+- *2026* 2026年UK National Edge AI Hub Future Star Award <span style="color: #c0392b;"><strong>(3 recipients worldwide)</strong></span>.
+- *2025* IEEE Cybermatics Congress (ICA3PP(CCF C)/Blockchain/SmartData/CPSCom/iThings/GreenCom), Zhengzhou, Henan, IEEE Excellent Organization Organization Award-Local Chiar
+- *2024* IEEE Technical Committee on Scalable Computing (TCSC) Outstanding PhD Dissertation Award <span style="color: #c0392b;"><strong>(5 recipients worldwide)</strong></span>.
+- *2024* IEEE AI+ Congress (TrustCom (CCF C)/BigDataSE/CSE/EUC/iSCI), Sanya, Hainan, IEEE Excellent Organization Award-Organizing Committee Chair
+- *2024* IEEE AI for Science Congress (ISPA (CCF C)/BDCloud/SocialCom/SustainCom/SpaCCS), Kaifeng, Henan, IEEE Outstanding Service Award-Organizing Committee Member
+- *2023* IEEE Cybermatics Congress(Blockchain/SmartData/CPSCom/IThings/CBD/ICPADS (CCF C)), Haihuadao, Hainan, IEEE Distinguished Services Award-Local Chair
+- *2023* 华中科技大学“达梦奖学金”
+- *2022* National CyberSecurity Center International Congress (IEEE TrustCom (CCF C)/BigDataSE/CSE/EUC/iSCI), Wuhan, Hubei, IEEE Outstanding Leadership Award-Publicity Chair
+- *2021* IEEE Hyper-Intelligence Congress (HPCC (CCF C)/Smartcity/DSS/DependSys/GPC/DIKW), Haikou, Hainan, IEEE Outstanding Leadership Award-Publicity Chair
+- *2018* 全国大学生电子设计竞赛全国二等奖
+- *2017* 本科生“国家奖学金”
+
+# 💻 Patents
+
+- 阮一恒, 刘德彬, 朱晨露, 杨天若, 邓贤君, 一种基于张量的混合推荐方法及系统, 已授权.
+- 姚博文, 杨天若, 欧阳泽宇, 徐泽汐, 刘德彬, 赵若男, 伦嘉铭, 丁光宇, 易永亮, 严运广, 张卫国, 张鹏飞, 基于张量超图注意力网络的半监督节点分类方法及系统, 已受理.
+- 杨天若, 谭子熠, 杨驰, 崔金华, 刘德彬, 赵若男, 邓贤君, 跨域驾驶异常行为检测模型建立方法及其应用, 已授权.
+- 郭赛迪, 杨天若, 吕秋杰, 赵若男, 刘德彬, 一种基于时空因果的跨模态心脏图像分割方法及系统, 已受理.
+- 吕秋杰, 杨天若, 郭赛迪, 赵若男, 刘德彬, 一种基于跨域元学习的药物分子属性预测方法及系统, 已受理.
+- 杨天若, 谭子熠, 杨驰, 崔金华, 刘德彬, 赵若男, 邓贤君, 一种车辆行为识别模型的构建方法及应用, 已受理.
+- 杨天若, 赵景林, 刘德彬, 崔金华, 赵若男, 王正, 邓贤君, 3D形状还原方法及还原模型的构建方法、设备、存储介质, 已受理.
+- 杨天若, 路万里, 赵若男, 刘德彬, 崔金华, 邓贤君, 基于张量计算和同态门限的安全联邦学习方法及系统, 已受理.
+- 杨天若, 路万里, 赵若男, 刘德彬, 崔金华, 邓贤君, 一种基于多密钥同态加密的联邦学习方法和系统, 已受理.
+- 朱晨露, 刘德彬, 阮一恒, 张立杰, 邓贤君, 杨天若, 一种基于张量的高效Transformer的架构方法, 已受理.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.08 - now*, Associate Researcher, School of Computer Science and Artificial Intelligence, Zhengzhou University
+- *2019.09 - 2024.06*, PhD student, Huazhong University of Science and Technology, Wuhan, Hubei, China.
