@@ -76,8 +76,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Dual-grained Lightweight Strategy.</strong>
   <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>,
   2024, 46(12): 10228–10245.
-  <span class="pub-tag">IF: 20.4</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 20.4, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -86,9 +85,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <span class="pub-author">Debin Liu</span>, Xiang Bai, Ruonan Zhao, Xianjun Deng, Shibo He and Laurence T. Yang.
   <strong>A Simple but Efficient Method to Achieve High Performance with Extreme Sparsity.</strong>
   <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>, 2026.
-  <span class="pub-tag">Accepted</span>
-  <span class="pub-tag">IF: 20.4</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(Accepted, IF: 20.4, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -98,8 +95,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Prototype Matters: Domain-Wise Prototype Induction for Zero-Shot Recognition.</strong>
   <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>,
   doi: 10.1109/TPAMI.2026.3742105, 2026.
-  <span class="pub-tag">IF: 20.4</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 20.4, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -109,8 +105,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Based on Tensor Core Sparse Kernels Accelerating Deep Neural Networks.</strong>
   <em>IEEE Transactions on Parallel and Distributed Systems (TPDS)</em>,
   2026, 37(2): 353–364.
-  <span class="pub-tag">IF: 5.9</span>
-  <span class="pub-tag">中科院二区</span>
+  <span style="color: #c0392b;"><strong>(IF: 5.9, 中科院二区)</strong></span>
 </p>
 
 <p>
@@ -136,8 +131,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>The Scalable Tensor-based Codebook Product Quantization for Multi-Label Image Retrieval.</strong>
   <em>IEEE Transactions on Image Processing (TIP)</em>, 
   doi: 10.1109/TIP.2026.3709468, 2026.
-  <span class="pub-tag">IF: 15.3</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 15.3, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -146,20 +140,16 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   Shijie Lv, Ruonan Zhao, <span class="pub-author">Debin Liu*</span>, Laurence T. Yang, and Jinhua Cui.
   <strong>QaQuant: Towards Efficient INT4 Quantization for High-Performance LLMs Services Deployment on Edge Devices.</strong>
   <em>IEEE Transactions on Computers (TC)</em>, 2026.
-  <span class="pub-tag">大修</span>
-  <span class="pub-tag">IF: 4.9</span>
-  <span class="pub-tag">中科院二区</span>
+  <span style="color: #c0392b;"><strong>(Major Revision, IF: 4.9, 中科院二区)</strong></span>
 </p>
 
 <p>
   <span class="pub-venue">TMC 2026</span>
+  <span class="pub-tag">CCF A</span>
   Ruonan Zhao, Zheng Wang, <span class="pub-author">Debin Liu*</span>, Xianjun Deng, Wei Liu, Zhiyuan Ma and Laurence T. Yang.
   <strong>TPFed: When Tensor-Train Decomposition Meets Hybrid Knowledge Prototype for Resource-Adaptive Personalized Federated Learning.</strong>
   <em>IEEE Transactions on Mobile Computing (TMC)</em>, 2026.
-  <span class="pub-tag">大修</span>
-  <span class="pub-tag">IF: 8.2</span>
-  <span class="pub-tag">中科院一区 Top</span>
-  <span class="pub-tag">CCF A</span>
+  <span style="color: #c0392b;"><strong>(Major Revision, IF: 8.2, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -168,9 +158,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   Bin Luo, Laurence T. Yang, <span class="pub-author">Debin Liu*</span>, Audrey Yang, Bowen Yao and Zexi Xu.
   <strong>Structure-Aware Discrete Hashing via Irregular Tensor Decomposition for Cross-Modal Retrieval.</strong>
   <em>IEEE Transactions on Multimedia (TMM)</em>, 2026.
-  <span class="pub-tag">大修</span>
-  <span class="pub-tag">IF: 5.9</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(Major Revision, IF: 5.9, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -180,8 +168,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Bayesian Nonnegative Tensor Completion with Automatic Rank Determination.</strong>
   <em>IEEE Transactions on Image Processing (TIP)</em>,
   vol. 34, pp. 2036–2051, 2025.
-  <span class="pub-tag">IF: 15.3</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 15.3, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -191,8 +178,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Panther: Pracical Secure 2-Party Neural Network Inference.</strong>
   <em>IEEE Transactions on Information Forensics and Security (TIFS)</em>,
   vol. 20, pp. 1149–1162, 2025.
-  <span class="pub-tag">IF: 8.7</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 8.7, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -202,8 +188,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Zero-Shot Image Recognition via Learning Dual Prototype Accordance Across Meta-Domains.</strong>
   <em>IEEE Transactions on Image Processing (TIP)</em>,
   vol. 34, pp. 6361–6373, 2025.
-  <span class="pub-tag">IF: 15.3</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 15.3, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -213,8 +198,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Improving Ethereum Mixing Address Linking with Tensor Computation, Neighbor Data Utilization and Asymmetric Information Modeling.</strong>
   <em>IEEE Transactions on Information Forensics and Security (TIFS)</em>,
   vol. 20, pp. 8658–8671, 2025.
-  <span class="pub-tag">IF: 8.7</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 8.7, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -224,8 +208,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>A High-Efficiency Parallel Mechanism for Canonical Polyadic Decomposition on Heterogeneous Computing Platform.</strong>
   <em>IEEE Transactions on Computers (TC)</em>,
   vol. 74, no. 10, pp. 3377–3389, 2025.
-  <span class="pub-tag">IF: 4.9</span>
-  <span class="pub-tag">中科院二区</span>
+  <span style="color: #c0392b;"><strong>(IF: 4.9, 中科院二区)</strong></span>
 </p>
 
 <p>
@@ -235,8 +218,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>WOM-FTL: An Efficient FTL for High-Density Flash Memory Through WOM-v Codes.</strong>
   <em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</em>,
   doi: 10.1109/TCAD.2025.3571833.
-  <span class="pub-tag">IF: 3.6</span>
-  <span class="pub-tag">中科院三区</span>
+  <span style="color: #c0392b;"><strong>(IF: 3.6, 中科院三区)</strong></span>
 </p>
 
 <p>
@@ -245,9 +227,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   Yuankai Zhang, Wei Liu, Jun Wang, HaoZhao Wang, <span class="pub-author">Debin Liu</span>, Rui Zhang, Zhigang Zeng, Laurence T. Yang and Ruixuan Li.
   <strong>Asymmetric Learning Rates for Robust Cooperative Rationalization: A Flexible Lipschitz Restraint.</strong>
   <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>, 2026.
-  <span class="pub-tag">大修</span>
-  <span class="pub-tag">IF: 20.4</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(Major Revision, IF: 20.4, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -257,8 +237,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Lightweight Tensor Deep Computation Model with Its Application in Intelligent Transportation Systems.</strong>
   <em>IEEE Transactions on Intelligent Transportation Systems (TITS)</em>,
   vol. 23, no. 3, pp. 2678–2687, 2022.
-  <span class="pub-tag">IF: 9.1</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 9.1, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -268,8 +247,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Multi-tree Compact Hierarchical Tensor Recurrent Neural Networks for Intelligent Transportation Systems Edge Devices.</strong>
   <em>IEEE Transactions on Intelligent Transportation Systems (TITS)</em>,
   vol. 24, no. 8, pp. 8719–8729, 2024.
-  <span class="pub-tag">IF: 9.1</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 9.1, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -287,8 +265,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Tensor-empowered Communication-efficient and Trustworthy Federated Learning for Heterogeneous Intelligent Space-Air-Ground Integrated IoT.</strong>
   <em>IEEE Internet of Things Journal (IOT)</em>,
   vol. 10, no. 23, pp. 20285–20296, 2023.
-  <span class="pub-tag">IF: 8.7</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 8.7, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -298,8 +275,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Tensor-based Secure Truthful Incentive Mechanism for Mobile Crowdsourcing in IoT-enabled Maritime Transportation Systems.</strong>
   <em>IEEE Transactions on Intelligent Transportation Systems (TITS)</em>,
   vol. 25, no. 5, pp. 3341–3351, 2024.
-  <span class="pub-tag">IF: 9.1</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 9.1, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -308,8 +284,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Lightweight Tensor-based GRU for Trustworthy and Communication Efficient Federated Learning in Industrial IoT.</strong>
   <em>IEEE Transactions on Industrial Informatics (TII)</em>,
   vol. 21, no. 3, pp. 2043–2052, 2025.
-  <span class="pub-tag">IF: 9.8</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 9.8, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -319,8 +294,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>TT-TSVD: A Multi-modal Tensor Train Decomposition with Its Application in Convolutional Neural Networks for Smart Healthcare.</strong>
   <em>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</em>,
   vol. 18, no. 41, pp. 1–17, 2022.
-  <span class="pub-tag">IF: 5.6</span>
-  <span class="pub-tag">中科院三区</span>
+  <span style="color: #c0392b;"><strong>(IF: 5.6, 中科院三区)</strong></span>
 </p>
 
 <p>
@@ -329,8 +303,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>An Efficient Tensor-based Transformer for Industrial Internet of Things.</strong>
   <em>IEEE Transactions on Network Science and Engineering (TNSE)</em>,
   vol. 11, no. 3, pp. 2574–2585, 2024.
-  <span class="pub-tag">IF: 7.3</span>
-  <span class="pub-tag">中科院二区</span>
+  <span style="color: #c0392b;"><strong>(IF: 7.3, 中科院二区)</strong></span>
 </p>
 
 <p>
@@ -339,8 +312,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Tensor-empowered Hardware-friendly Lightweight Deep Neural Networks.</strong>
   <em>IEEE Transactions on Consumer Electronics (TCE)</em>,
   vol. 71, no. 1, pp. 2175–2185, 2025.
-  <span class="pub-tag">IF: 9.9</span>
-  <span class="pub-tag">中科院二区</span>
+  <span style="color: #c0392b;"><strong>(IF: 9.9, 中科院二区)</strong></span>
 </p>
 
 <p>
@@ -349,8 +321,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>A Zero-shot High-dimensional Feature Fusion with STF-GAN for Cross-domain Image Reconstruction.</strong>
   <em>IEEE Journal of Selected Topics in Signal Processing (JSTSP)</em>,
   2025, doi: 10.1109/JSTSP.2025.3600191.
-  <span class="pub-tag">IF: 8.5</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 8.5, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -359,8 +330,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Share Token Tensorized Attention Fusion: Enhancing Audio-Visual Emotion Recognition for Consumer Electronics.</strong>
   <em>IEEE Transactions on Consumer Electronics (TCE)</em>,
   2025, doi: 10.1109/TCE.2025.3599517.
-  <span class="pub-tag">IF: 9.9</span>
-  <span class="pub-tag">中科院二区</span>
+  <span style="color: #c0392b;"><strong>(IF: 9.9, 中科院二区)</strong></span>
 </p>
 
 <p>
@@ -369,8 +339,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Tensor-empowered Lightweight Representations for Personalized Federated Learning in Heterogeneous 6G Networks.</strong>
   <em>IEEE Network</em>,
   vol. 39, no. 2, pp. 115–123, 2025.
-  <span class="pub-tag">IF: 8.8</span>
-  <span class="pub-tag">中科院三区</span>
+  <span style="color: #c0392b;"><strong>(IF: 8.8, 中科院三区)</strong></span>
 </p>
 
 <p>
@@ -380,8 +349,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>A Tensor-based Truthful Incentive Mechanism for Blockchain-enabled Space-Air-Ground Integrated Vehicular Crowdsensing.</strong>
   <em>IEEE Transactions on Intelligent Transportation Systems (TITS)</em>,
   vol. 23, no. 3, pp. 2853–2862, 2022.
-  <span class="pub-tag">IF: 9.1</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 9.1, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -391,8 +359,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Tensor-empowered LSTM for Communication-efficient and Privacy-enhancd Cognitive Federated Learning in Intelligent Transportation Systems.</strong>
   <em>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</em>,
   vol. 20, no. 33, pp. 1–21, 2023.
-  <span class="pub-tag">IF: 5.6</span>
-  <span class="pub-tag">中科院三区</span>
+  <span style="color: #c0392b;"><strong>(IF: 5.6, 中科院三区)</strong></span>
 </p>
 
 <p>
@@ -402,8 +369,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>A Multi-modal Tensor Ring Decomposition for Communication-efficient and Trustworthy Federated Learning for Its Covid-19 Scenario.</strong>
   <em>IEEE Transactions on Intelligent Transportation Systems (TITS)</em>,
   vol. 25, no. 5, pp. 3535–3547, 2024.
-  <span class="pub-tag">IF: 9.1</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 9.1, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -412,8 +378,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Tensor Empowered Federated Learning for Cyber-Physical-Social Computing and Communication Systems.</strong>
   <em>IEEE Communications Surveys and Tutorials</em>,
   vol. 25, no. 3, pp. 1909–1940, 2023.
-  <span class="pub-tag">IF: 50.6</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 50.6, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -422,8 +387,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>Sparse Bayesian Tensor Completion for Data Recovery in Intelligent IoT Systems.</strong>
   <em>IEEE Internet of Things Journal (IOT)</em>,
   vol. 11, no. 15, pp. 25682–25693, 2024.
-  <span class="pub-tag">IF: 8.7</span>
-  <span class="pub-tag">中科院一区 Top</span>
+  <span style="color: #c0392b;"><strong>(IF: 8.7, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -432,8 +396,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>THPFF: A tensor-based high-precision feature fusion model for multi-source data in smart healthcare systems.</strong>
   <em>Information Fusion</em>,
   vol. 124, pp. 103324, 2025.
-  <span class="pub-tag">IF: 17.4</span>
-  <span class="pub-tag">中科院一区 Top</span>
+    <span style="color: #c0392b;"><strong>(IF: 17.4, 中科院一区 Top)</strong></span>
 </p>
 
 <p>
@@ -442,8 +405,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <strong>TT-RNNPool3D: A Tensor-based High-order RNNPool Model for Mobile Edge Consumer Applications.</strong>
   <em>IEEE Transactions on Consumer Electronics (TCE)</em>,
   2025, doi: 10.1109/TCE.2024.3435410.
-  <span class="pub-tag">IF: 9.9</span>
-  <span class="pub-tag">中科院二区</span>
+  <span style="color: #c0392b;"><strong>(IF: 9.9, 中科院二区)</strong></span>
 </p>
 
 <p>
