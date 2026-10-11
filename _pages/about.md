@@ -457,7 +457,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 # 🎖 Honors and Awards
 
 - *2026* ACM China Rising Star Award <span style="color: #c0392b;"><strong>(Zhengzhou Branch: 3 members in total, with one recommended for the national selection)</strong></span>.
-- *2026* 2026年UK National Edge AI Hub Future Star Award <span style="color: #c0392b;"><strong>(3 recipients worldwide)</strong></span>.
+- *2026* UK National Edge AI Hub Future Star Award <span style="color: #c0392b;"><strong>(3 recipients worldwide)</strong></span>.
 - *2025* IEEE Cybermatics Congress (ICA3PP(CCF C)/Blockchain/SmartData/CPSCom/iThings/GreenCom), Zhengzhou, Henan, IEEE Excellent Organization Organization Award-Local Chiar
 - *2024* IEEE Technical Committee on Scalable Computing (TCSC) Outstanding PhD Dissertation Award <span style="color: #c0392b;"><strong>(5 recipients worldwide)</strong></span>.
 - *2024* IEEE AI+ Congress (TrustCom (CCF C)/BigDataSE/CSE/EUC/iSCI), Sanya, Hainan, IEEE Excellent Organization Award-Organizing Committee Chair
@@ -473,16 +473,16 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 
 # 💻 Patents
 
-- 阮一恒, 刘德彬, 朱晨露, 杨天若, 邓贤君, 一种基于张量的混合推荐方法及系统, 已授权.
-- 姚博文, 杨天若, 欧阳泽宇, 徐泽汐, 刘德彬, 赵若男, 伦嘉铭, 丁光宇, 易永亮, 严运广, 张卫国, 张鹏飞, 基于张量超图注意力网络的半监督节点分类方法及系统, 已受理.
-- 杨天若, 谭子熠, 杨驰, 崔金华, 刘德彬, 赵若男, 邓贤君, 跨域驾驶异常行为检测模型建立方法及其应用, 已授权.
-- 郭赛迪, 杨天若, 吕秋杰, 赵若男, 刘德彬, 一种基于时空因果的跨模态心脏图像分割方法及系统, 已受理.
-- 吕秋杰, 杨天若, 郭赛迪, 赵若男, 刘德彬, 一种基于跨域元学习的药物分子属性预测方法及系统, 已受理.
-- 杨天若, 谭子熠, 杨驰, 崔金华, 刘德彬, 赵若男, 邓贤君, 一种车辆行为识别模型的构建方法及应用, 已受理.
-- 杨天若, 赵景林, 刘德彬, 崔金华, 赵若男, 王正, 邓贤君, 3D形状还原方法及还原模型的构建方法、设备、存储介质, 已受理.
-- 杨天若, 路万里, 赵若男, 刘德彬, 崔金华, 邓贤君, 基于张量计算和同态门限的安全联邦学习方法及系统, 已受理.
-- 杨天若, 路万里, 赵若男, 刘德彬, 崔金华, 邓贤君, 一种基于多密钥同态加密的联邦学习方法和系统, 已受理.
-- 朱晨露, 刘德彬, 阮一恒, 张立杰, 邓贤君, 杨天若, 一种基于张量的高效Transformer的架构方法, 已受理.
+- 阮一恒, **刘德彬**, 朱晨露, 杨天若, 邓贤君, 一种基于张量的混合推荐方法及系统, 已授权.
+- 姚博文, 杨天若, 欧阳泽宇, 徐泽汐, **刘德彬**, 赵若男, 伦嘉铭, 丁光宇, 易永亮, 严运广, 张卫国, 张鹏飞, 基于张量超图注意力网络的半监督节点分类方法及系统, 已受理.
+- 杨天若, 谭子熠, 杨驰, 崔金华, **刘德彬**, 赵若男, 邓贤君, 跨域驾驶异常行为检测模型建立方法及其应用, 已授权.
+- 郭赛迪, 杨天若, 吕秋杰, 赵若男, **刘德彬**, 一种基于时空因果的跨模态心脏图像分割方法及系统, 已受理.
+- 吕秋杰, 杨天若, 郭赛迪, 赵若男, **刘德彬**, 一种基于跨域元学习的药物分子属性预测方法及系统, 已受理.
+- 杨天若, 谭子熠, 杨驰, 崔金华, **刘德彬**, 赵若男, 邓贤君, 一种车辆行为识别模型的构建方法及应用, 已受理.
+- 杨天若, 赵景林, **刘德彬**, 崔金华, 赵若男, 王正, 邓贤君, 3D形状还原方法及还原模型的构建方法、设备、存储介质, 已受理.
+- 杨天若, 路万里, 赵若男, **刘德彬**, 崔金华, 邓贤君, 基于张量计算和同态门限的安全联邦学习方法及系统, 已受理.
+- 杨天若, 路万里, 赵若男, **刘德彬**, 崔金华, 邓贤君, 一种基于多密钥同态加密的联邦学习方法和系统, 已受理.
+- 朱晨露, **刘德彬**, 阮一恒, 张立杰, 邓贤君, 杨天若, 一种基于张量的高效Transformer的架构方法, 已受理.
 
 
 <span class='anchor' id='-educations'></span>
