@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color: #1e40af;">**Debin Liu**</span> is an Associate Researcher and Master’s Supervisor at the School of Computer Science and Artificial Intelligence, Zhengzhou University. Born in 1997, he received his Ph.D. in Computer Architecture from Huazhong University of Science and Technology in June 2024 under the supervision of Prof. <span style="color: #1e40af;">Laurence T. Yang (**杨天若, Academic Vice President of Zhengzhou University, Fellow of the Canadian Academy of Engineering, the Engineering Institute of Canada, the European Academy of Sciences and IEEE Fellow**)</span> . He joined Zhengzhou University in August 2024. He has been recognized as a <span style="color: #1e40af;">**Zhongyuan Young Outstanding Young Talent (中原青年拔尖人才)**</span> and a <span style="color: #1e40af;">**Henan Provincial High-Level Talent (河南省高层次人才)**</span>. He serves on the CCF Technical Committee on Cooperative Computing and the Technical Committee on Industrial Internet of Things Technologies and Applications.
+<span style="color: #1e40af;">**Debin Liu**</span> is an Associate Researcher and Master’s Supervisor at the School of Computer Science and Artificial Intelligence, Zhengzhou University. Born in 1997, he received his Ph.D. in Computer Architecture from Huazhong University of Science and Technology in June 2024 under the supervision of Prof. <span style="color: #1e40af;">Laurence T. Yang (**杨天若, Academic Vice President of Zhengzhou University, Fellow of the Canadian Academy of Engineering, Fellow of the Engineering Institute of Canada, Member of the European Academy of Sciences and IEEE Fellow**)</span> . He joined Zhengzhou University in August 2024. He has been recognized as a <span style="color: #1e40af;">**Zhongyuan Young Outstanding Young Talent (中原青年拔尖人才)**</span> and a <span style="color: #1e40af;">**Henan Provincial High-Level Talent (河南省高层次人才)**</span>. He serves on the CCF Technical Committee on Cooperative Computing and the Technical Committee on Industrial Internet of Things Technologies and Applications.
 
 His research interests include multimodal learning, deep neural network optimization, neural network compression and acceleration, efficient inference for large models, and federated learning. He has published over 40 papers in leading journals and conferences, including <span style="color: #c0392b;">*IEEE TPAMI, TIP, TPDS, TC, TMC, TIFS, TCAD, TITS, TII, ACM TOMM, IEEE Communications Surveys and Tutorials, CVPR, NeurIPS, and ICME*</span>. His work received a Best Paper Award nomination at ICME.
 
@@ -473,16 +473,16 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 
 # 💻 Patents
 
-- 阮一恒, **刘德彬**, 朱晨露, 杨天若, 邓贤君, 一种基于张量的混合推荐方法及系统, 已授权.
-- 姚博文, 杨天若, 欧阳泽宇, 徐泽汐, **刘德彬**, 赵若男, 伦嘉铭, 丁光宇, 易永亮, 严运广, 张卫国, 张鹏飞, 基于张量超图注意力网络的半监督节点分类方法及系统, 已受理.
-- 杨天若, 谭子熠, 杨驰, 崔金华, **刘德彬**, 赵若男, 邓贤君, 跨域驾驶异常行为检测模型建立方法及其应用, 已授权.
-- 郭赛迪, 杨天若, 吕秋杰, 赵若男, **刘德彬**, 一种基于时空因果的跨模态心脏图像分割方法及系统, 已受理.
-- 吕秋杰, 杨天若, 郭赛迪, 赵若男, **刘德彬**, 一种基于跨域元学习的药物分子属性预测方法及系统, 已受理.
-- 杨天若, 谭子熠, 杨驰, 崔金华, **刘德彬**, 赵若男, 邓贤君, 一种车辆行为识别模型的构建方法及应用, 已受理.
-- 杨天若, 赵景林, **刘德彬**, 崔金华, 赵若男, 王正, 邓贤君, 3D形状还原方法及还原模型的构建方法、设备、存储介质, 已受理.
-- 杨天若, 路万里, 赵若男, **刘德彬**, 崔金华, 邓贤君, 基于张量计算和同态门限的安全联邦学习方法及系统, 已受理.
-- 杨天若, 路万里, 赵若男, **刘德彬**, 崔金华, 邓贤君, 一种基于多密钥同态加密的联邦学习方法和系统, 已受理.
-- 朱晨露, **刘德彬**, 阮一恒, 张立杰, 邓贤君, 杨天若, 一种基于张量的高效Transformer的架构方法, 已受理.
+- 阮一恒, <span style="color: #1e40af;">**刘德彬**</span>, 朱晨露, 杨天若, 邓贤君, 一种基于张量的混合推荐方法及系统, 已授权.
+- 姚博文, 杨天若, 欧阳泽宇, 徐泽汐, <span style="color: #1e40af;">**刘德彬**</span>, 赵若男, 伦嘉铭, 丁光宇, 易永亮, 严运广, 张卫国, 张鹏飞, 基于张量超图注意力网络的半监督节点分类方法及系统, 已受理.
+- 杨天若, 谭子熠, 杨驰, 崔金华, <span style="color: #1e40af;">**刘德彬**</span>, 赵若男, 邓贤君, 跨域驾驶异常行为检测模型建立方法及其应用, 已授权.
+- 郭赛迪, 杨天若, 吕秋杰, 赵若男, <span style="color: #1e40af;">**刘德彬**</span>, 一种基于时空因果的跨模态心脏图像分割方法及系统, 已受理.
+- 吕秋杰, 杨天若, 郭赛迪, 赵若男, <span style="color: #1e40af;">**刘德彬**</span>, 一种基于跨域元学习的药物分子属性预测方法及系统, 已受理.
+- 杨天若, 谭子熠, 杨驰, 崔金华, <span style="color: #1e40af;">**刘德彬**</span>, 赵若男, 邓贤君, 一种车辆行为识别模型的构建方法及应用, 已受理.
+- 杨天若, 赵景林, <span style="color: #1e40af;">**刘德彬**</span>, 崔金华, 赵若男, 王正, 邓贤君, 3D形状还原方法及还原模型的构建方法、设备、存储介质, 已受理.
+- 杨天若, 路万里, 赵若男, <span style="color: #1e40af;">**刘德彬**</span>, 崔金华, 邓贤君, 基于张量计算和同态门限的安全联邦学习方法及系统, 已受理.
+- 杨天若, 路万里, 赵若男, <span style="color: #1e40af;">**刘德彬**</span>, 崔金华, 邓贤君, 一种基于多密钥同态加密的联邦学习方法和系统, 已受理.
+- 朱晨露, <span style="color: #1e40af;">**刘德彬**</span>, 阮一恒, 张立杰, 邓贤君, 杨天若, 一种基于张量的高效Transformer的架构方法, 已受理.
 
 
 <span class='anchor' id='-educations'></span>
