@@ -456,10 +456,11 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-
+- *2026* 21th CCF Conference on Computer Supported Cooperative Work and Social Computing, ChineseCSCW-Local Chair
+- *2026* IEEE Hyper Intelligence Congress (DSS/Smartcity/DependSys/Embodied AI/ICESS), Luoyang, Henan, IEEE Excellent Organization Award-Local Chiar
 - *2026* ACM China Rising Star Award <span style="color: #c0392b;"><strong>(Zhengzhou Branch: 3 members in total, with one recommended for the national selection)</strong></span>.
 - *2026* UK National Edge AI Hub Future Star Award <span style="color: #c0392b;"><strong>(3 recipients worldwide)</strong></span>.
-- *2025* IEEE Cybermatics Congress (ICA3PP(CCF C)/Blockchain/SmartData/CPSCom/iThings/GreenCom), Zhengzhou, Henan, IEEE Excellent Organization Organization Award-Local Chiar
+- *2025* IEEE Cybermatics Congress (ICA3PP(CCF C)/Blockchain/SmartData/CPSCom/iThings/GreenCom), Zhengzhou, Henan, IEEE Excellent Organization Award-Local Chiar
 - *2024* IEEE Technical Committee on Scalable Computing (TCSC) Outstanding PhD Dissertation Award <span style="color: #c0392b;"><strong>(5 recipients worldwide)</strong></span>.
 - *2024* IEEE AI+ Congress (TrustCom (CCF C)/BigDataSE/CSE/EUC/iSCI), Sanya, Hainan, IEEE Excellent Organization Award-Organizing Committee Chair
 - *2024* IEEE AI for Science Congress (ISPA (CCF C)/BDCloud/SocialCom/SustainCom/SpaCCS), Kaifeng, Henan, IEEE Outstanding Service Award-Organizing Committee Member
