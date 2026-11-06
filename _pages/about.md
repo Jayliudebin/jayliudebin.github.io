@@ -43,6 +43,7 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
 - *2026.09*: &nbsp;🎉🎉 Liu Debin Wins the 2026 ACM China Rising Star Award (Zhengzhou Branch: 3 members in total, with one recommended for the national selection).
 - *2026.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2026.
 - *2026.10*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2026.
+- *2026.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI 2026.
 
 
 <span class='anchor' id='-publications'></span>
