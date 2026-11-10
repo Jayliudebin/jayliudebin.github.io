@@ -95,7 +95,8 @@ He serves as a Program Committee member for AAAI 2026/2027 and ACM MM 2026. He a
   <span class="pub-tag">CCF A</span>
   <span class="pub-author">Debin Liu</span>, Xiang Bai, Ruonan Zhao, Xianjun Deng, Shibo He and Laurence T. Yang.
   <strong>A Simple but Efficient Method to Achieve High Performance with Extreme Sparsity.</strong>
-  <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>, 2026.
+  <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>, 
+  doi: 10.1109/TPAMI.2026.3753244, 2026.
   <span style="color: #c0392b;"><strong>(Accepted, IF: 20.4, 中科院一区 Top)</strong></span>
 </p>
 
